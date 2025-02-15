@@ -1,3 +1,4 @@
 # MedHack-Flatliners
-Flatliners Repo
+Repo for Medhack 2025
+
 [Discord Link](https://discord.gg/KYGbR2JJ)
